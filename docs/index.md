@@ -49,4 +49,12 @@ Ordered list:
 
 added extra space above 
 
+### Table 1
+
+| First Header | Second Header |
+| --- | ---- |
+| content cell info | content cell |
+| content cell | content cell info |
+
+
 

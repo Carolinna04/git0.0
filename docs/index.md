@@ -23,3 +23,12 @@ Making a list:
 space added
 
 > random quote
+
+`git status` can use it to list all new or modified files that haven't yet been committed.
+
+Basic Git commands:
+```
+git status
+git add
+git commit
+```

@@ -34,3 +34,6 @@ git commit
 ```
 
 I can find basic formatting tips on [GitHub Basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+![Random image I found](https://i.pinimg.com/736x/7a/ff/76/7aff7682915637a18b74e571d7805b93--rainbow-colors-fire.jpg)

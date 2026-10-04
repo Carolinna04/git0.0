@@ -37,3 +37,16 @@ I can find basic formatting tips on [GitHub Basics](https://docs.github.com/en/g
 
 
 ![Random image I found](https://i.pinimg.com/736x/7a/ff/76/7aff7682915637a18b74e571d7805b93--rainbow-colors-fire.jpg)
+
+
+Ordered list:
+1. first point 
+2. second point
+3. third point
+
+<br>
+<br>
+
+added extra space above 
+
+

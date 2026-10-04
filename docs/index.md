@@ -10,6 +10,8 @@ nav_order: 1
 
 ### Third Level Header
 
+Link to first GitHub assignment [CLimate Change](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html)
+
 Making a list:
 - point 1
 - point 2

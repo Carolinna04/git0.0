@@ -32,3 +32,5 @@ git status
 git add
 git commit
 ```
+
+I can find basic formatting tips on [GitHub Basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

@@ -59,4 +59,6 @@ added extra space above
 | content cell | content cell info |
 
 
+So many emojis :sunglasses: :heart: :smile: :star_struck:
 
+More Here! :disguised_face: [The emoji Guide](https://github.com/ikatyang/emoji-cheat-sheet/blob/github-actions-auto-update/README.md)
